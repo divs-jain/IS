@@ -1,3 +1,15 @@
+# Installation & Setup
+<br>
+ Prerequisites:-<br>
+Python 3.10+ installed
+<br>
+Git installed
+<br>
+pip (Python package manager)
+<br>
+Virtual environment support (venv)
+<br>
+
 ### 1. Clone the repository
 git clone https://github.com/divs-jain/IS.git<br>
 cd IS
